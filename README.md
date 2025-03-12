@@ -1,6 +1,6 @@
 # 🌊 Nyvoxx (Alex 繁 !)
 
-![Profile Image]([https://raw.githubusercontent.com/Nyvoxx/Nyvoxx/main/profile-image.png](https://cdn.discordapp.com/attachments/1348255529994293321/1349506000217964717/bc9cdfad175a470340619a8d0601e832-enhanced_1.png?ex=67d358e7&is=67d20767&hm=1124311bed6dbd378529c2731d3b7c0091ad5d098c75e63e71690d99ad4d4c83&))
+![Profile Image](https://cdn.discordapp.com/attachments/1348255529994293321/1349506000217964717/bc9cdfad175a470340619a8d0601e832-enhanced_1.png?ex=67d358e7&is=67d20767&hm=1124311bed6dbd378529c2731d3b7c0091ad5d098c75e63e71690d99ad4d4c83&)
 
 ## 🚀 Bienvenue sur mon GitHub !
 
@@ -29,10 +29,6 @@ Salut ! Moi c'est **Nyvoxx**, aka **Alex 繁 !** 💻🌍 Passionné par le dév
 ---
 
 ## 🔥 Mes Projets & Contributions
-
-### 📢 Contributions Open Source :
-- **Développement de plugins & extensions**
-- **Templates et composants réutilisables**
 
 ---
 
