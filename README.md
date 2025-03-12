@@ -11,13 +11,11 @@ Salut ! Moi c'est **Nyvoxx**, aka **Alex 繁 !** 💻 Passionné par le web et t
 - **Langages** : JavaScript, HTML, CSS
 - **Back-end** : Node.js (Express)
 - **Bases de données** : MySQL, Sequelize, Mongoose, QuickDB
-- **UI/UX** : TailwindCSS, SCSS, Figma
 
 ---
 
 ## 🔥 Projets
 
-- **[Mon Portfolio](https://nyvoxx.dev)** 🎨
 - **App de gestion de tâches** 📅
 - **Projets Open Source** 🚀
 
@@ -31,7 +29,6 @@ Salut ! Moi c'est **Nyvoxx**, aka **Alex 繁 !** 💻 Passionné par le web et t
 
 ## 🌐 Me Contacter
 
-📩 **Email** : [contact@nyvoxx.dev](mailto:contact@nyvoxx.dev)  
 🐦 **Twitter** : [@Nyvoxx](https://twitter.com/Nyvoxx)  
 📸 **Instagram** : [@Nyvoxx](https://instagram.com/Nyvoxx)
 
