@@ -29,7 +29,7 @@ Salut ! Moi c'est **Nyvoxx**, aka **Alex 繁 !** 💻 Passionné par le web et t
 
 ## 🌐 Me Contacter
 
-🐦 **Twitter** : [@Nyvoxx](https://twitter.com/Nyvoxx)  
+🐦 **Twitter** : [@Nyvoxx](https://x.com/nyvoxx_)  
 📸 **Instagram** : [@Nyvoxx](https://instagram.com/Nyvoxx)
 
 ---
